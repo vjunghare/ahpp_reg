@@ -1,0 +1,7 @@
+# MATLAB / output
+*.asv
+*.autosave
+ic50_peptide.csv
+.DS_Store
+Thumbs.db
+.vscode/

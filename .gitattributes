@@ -1,0 +1,5 @@
+*.mat binary
+* text=auto eol=lf
+*.m text eol=lf
+*.md text eol=lf
+*.csv text eol=lf
